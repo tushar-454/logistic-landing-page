@@ -3,6 +3,7 @@ import GetinTouch from '../Components/GetinTouch';
 import OurMission from '../Components/OurMission';
 import OurProducts from '../Components/OurProducts';
 import OurServices from '../Components/OurServices';
+import Paralax from '../Components/Paralax';
 import Testimonials from '../Components/Testimonials';
 import WhyLogistic from '../Components/WhyLogistic';
 
@@ -16,6 +17,7 @@ const Home = () => {
       <OurProducts />
       <GetinTouch />
       <Testimonials />
+      <Paralax />
     </main>
   );
 };
