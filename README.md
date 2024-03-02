@@ -1,1 +1,1 @@
-# React Tailwind Boiler Project
+# Logistic Landing Page
