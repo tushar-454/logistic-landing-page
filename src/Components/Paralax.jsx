@@ -1,9 +1,9 @@
 import Container from './Shared/Container';
 const Paralax = () => {
   return (
-    <div className='my-20 h-[500px] bg-[url("../src/Assets/bg.png")] bg-cover bg-fixed'>
+    <div className='my-20 bg-[url("../src/Assets/bg.png")] bg-cover bg-fixed'>
       <Container>
-        <div className='pt-2j0 mx-auto h-full w-full space-y-4 text-white md:w-[768px]'>
+        <div className='mx-auto h-full w-full space-y-4 py-20 text-white md:w-[768px]'>
           <h1 className='text-center text-3xl'>
             Join Us in Shaping the Future
           </h1>
