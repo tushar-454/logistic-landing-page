@@ -4,14 +4,14 @@ const GetinTouch = () => {
   return (
     <div className='my-20'>
       <Container>
-        <div className='flex items-center justify-between rounded-full bg-[#001F3F] p-5 text-white'>
+        <div className='flex flex-col items-start justify-between gap-10 rounded-full bg-[#001F3F] p-5 text-white sm:flex-row sm:items-center'>
           <div className='ml-8 space-y-2'>
             <h1 className='text-lg font-bold'>Get in Touch</h1>
             <p>We&apos;re excited to hear from you.</p>
           </div>
           <a
             href='/'
-            className='rounded-full bg-slate-100 p-3 px-7 font-bold text-[#001F3F]'
+            className='ml-8 rounded-full bg-slate-100 p-3 px-7 font-bold text-[#001F3F] sm:ml-0'
           >
             Contact US
           </a>

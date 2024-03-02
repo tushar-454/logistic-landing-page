@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "comment": "Great logistics service! They always deliver on time and handle our shipments with care.",
+    "image": "../src/Assets/client1.png"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "comment": "I highly recommend this logistics company. Their team is professional and responsive.",
+    "image": "../src/Assets/client2.png"
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "comment": "Efficient and reliable logistics solutions. They have helped streamline our supply chain operations.",
+    "image": "../src/Assets/client3.png"
+  },
+  {
+    "id": 4,
+    "name": "Emily Wilson",
+    "comment": "Outstanding service! The logistics team goes above and beyond to meet our specific requirements.",
+    "image": "../src/Assets/client4.png"
+  }
+]

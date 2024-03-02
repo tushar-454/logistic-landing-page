@@ -3,6 +3,7 @@ import GetinTouch from '../Components/GetinTouch';
 import OurMission from '../Components/OurMission';
 import OurProducts from '../Components/OurProducts';
 import OurServices from '../Components/OurServices';
+import Testimonials from '../Components/Testimonials';
 import WhyLogistic from '../Components/WhyLogistic';
 
 const Home = () => {
@@ -14,6 +15,7 @@ const Home = () => {
       <OurMission />
       <OurProducts />
       <GetinTouch />
+      <Testimonials />
     </main>
   );
 };
