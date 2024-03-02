@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "icon": "../src/Assets/track.png",
+    "cause": "Express Delivery: Within 2 days"
+  },
+  {
+    "id": 2,
+    "icon": "../src/Assets/ex.png",
+    "cause": "Tailored Solutions"
+  },
+  {
+    "id": 3,
+    "icon": "../src/Assets/db.png",
+    "cause": "Data-Driven Insights"
+  },
+  {
+    "id": 4,
+    "icon": "../src/Assets/win.png",
+    "cause": "Global Reach"
+  },
+  {
+    "id": 5,
+    "icon": "../src/Assets/pi.png",
+    "cause": "Priority Support"
+  }
+]

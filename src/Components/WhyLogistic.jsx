@@ -1,6 +1,12 @@
-import whychoose from '../DB/whychoose';
+import { useEffect, useState } from 'react';
 import Container from './Shared/Container';
 const WhyLogistic = () => {
+  const [whychoose, setWhyChoose] = useState([]);
+  useEffect(() => {
+    fetch('./whychoose.json')
+      .then((res) => res.json())
+      .then((data) => setWhyChoose(data));
+  }, []);
   return (
     <div className='my-20'>
       <Container>
