@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "icon": "../src/Assets/repair.png",
+    "icon": "https://i.postimg.cc/3rf5gk6m/repair.png",
     "service": "Maintenance and Repair Services",
     "details": "Providing maintenance and repair services for equipment, machinery, and other assets to ensure optimal functioning and longevity."
   },
   {
     "id": 2,
-    "icon": "../src/Assets/support.png",
+    "icon": "https://i.postimg.cc/tgjLXWZQ/support.png",
     "service": "Technical Support",
     "details": "Offering customer assistance and technical support to troubleshoot issues, answer queries, and provide guidance."
   },
   {
     "id": 3,
-    "icon": "../src/Assets/delivery.png",
+    "icon": "https://i.postimg.cc/rm8X9xMC/delivery.png",
     "service": "Logistics and Delivery Services",
     "details": "Providing maintenance and repair services for equipment, machinery, and other assets to ensure optimal functioning and longevity."
   }

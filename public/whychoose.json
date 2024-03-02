@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "icon": "../src/Assets/track.png",
+    "icon": "https://i.postimg.cc/tC8KML9g/track.png",
     "cause": "Express Delivery: Within 2 days"
   },
   {
     "id": 2,
-    "icon": "../src/Assets/ex.png",
+    "icon": "https://i.postimg.cc/1z016Jh3/ex.png",
     "cause": "Tailored Solutions"
   },
   {
     "id": 3,
-    "icon": "../src/Assets/db.png",
+    "icon": "https://i.postimg.cc/s2CRvbLL/db.png",
     "cause": "Data-Driven Insights"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "id": 5,
-    "icon": "../src/Assets/pi.png",
+    "icon": "https://i.postimg.cc/90n6VkTJ/pi.png",
     "cause": "Priority Support"
   }
 ]

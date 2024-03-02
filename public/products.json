@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "image": "../src/Assets/leappallet.png",
+    "image": "https://i.postimg.cc/hPJFMSWw/leappallet.png",
     "name": "Leap Pallet"
   },
   {
     "id": 1,
-    "image": "../src/Assets/leapub.png",
+    "image": "https://i.postimg.cc/DzPRm0LW/leapub.png",
     "name": "Leap UB"
   },
   {
     "id": 1,
-    "image": "../src/Assets/ceate.png",
+    "image": "https://i.postimg.cc/vTcKPvj9/ceate.png",
     "name": "Crate"
   },
   {
     "id": 1,
-    "image": "../src/Assets/windowflc.png",
+    "image": "https://i.postimg.cc/RFP8QYP4/windowflc.png",
     "name": "Window FLC"
   }
 ]
