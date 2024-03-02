@@ -1,4 +1,5 @@
 import Banner from '../Components/Banner';
+import GetinTouch from '../Components/GetinTouch';
 import OurMission from '../Components/OurMission';
 import OurProducts from '../Components/OurProducts';
 import OurServices from '../Components/OurServices';
@@ -12,6 +13,7 @@ const Home = () => {
       <OurServices />
       <OurMission />
       <OurProducts />
+      <GetinTouch />
     </main>
   );
 };
